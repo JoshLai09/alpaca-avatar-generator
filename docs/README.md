@@ -12,3 +12,5 @@ Niklas von Hertzen](https://github.com/niklasvh) to download the avatar
 ## Screenshots
 <img src="readme%20screenshots/desktop.png" alt="desktop screenshot" height="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="readme%20screenshots/mobile.png" alt="mobile screenshot" height="500">
 
+## Live demo
+[github pages](https://joshlai09.github.io/alpaca-avatar-generator/src/index.html)
